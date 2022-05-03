@@ -27,5 +27,5 @@ I'm a software engineer passionate about writing code, creating software, solvin
 
 ## **Stats** 🔥
 
-![Robério GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Robério GitHub stats](https://github-readme-stats.vercel.app/api?username=roberioz&count_private=true)
 
