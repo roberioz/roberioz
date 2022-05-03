@@ -1,6 +1,6 @@
 # **Hi There**
 
-I'm a software engineer passionate about writing code, creating software, solving problems and positively impacting the world through technology.
+//TODO
 
 ⚡ Fun fact **I like watch soccer and basketball, travel and do nothing sometimes**
 
