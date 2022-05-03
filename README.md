@@ -14,7 +14,7 @@
 
 ## **Programming Languages** :computer:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberioz&layout=compact&langs_counts=16&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roberioz&layout=compact&langs_counts=16&theme=dark)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -29,5 +29,5 @@
 
 ## **Stats** 🔥
 
-![Robério GitHub stats](https://github-readme-stats.vercel.app/api?username=roberioz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Robério GitHub stats](https://github-readme-stats.vercel.app/api?username=roberioz&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
