@@ -29,5 +29,5 @@
 
 ## **Stats** 🔥
 
-![Robério GitHub stats](https://github-readme-stats.vercel.app/api?username=roberioz&count_private=true&include_all_commits=true)
+![Robério GitHub stats](https://github-readme-stats.vercel.app/api?username=roberioz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
